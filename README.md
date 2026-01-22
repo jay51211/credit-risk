@@ -1,11 +1,11 @@
-# 🏦 ML-Based Credit Score & Loan Approval Predictor
+#  ML-Based Credit Score & Loan Approval Predictor
 
 A machine learning web application built using **Streamlit** that predicts **loan approval / creditworthiness** based on applicant financial and personal details.  
 The application trains a **Gaussian Naive Bayes** model in real time and provides instant predictions through an interactive user interface.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Banks and financial institutions evaluate multiple factors before approving a loan.  
 This project demonstrates how **machine learning** can be used to analyze applicant data and predict loan approval, which serves as an indicator of **creditworthiness**.
@@ -14,7 +14,7 @@ The system allows users to input personal and financial details through a Stream
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Interactive **Streamlit UI**
 - Real-time model training (no pickle or saved model)
@@ -28,7 +28,7 @@ The system allows users to input personal and financial details through a Stream
 
 ---
 
-## 🧠 Machine Learning Methodology
+##  Machine Learning Methodology
 
 - **Algorithm:** Gaussian Naive Bayes  
 - **Target Variable:** Loan_Approved  
@@ -43,7 +43,7 @@ The system allows users to input personal and financial details through a Stream
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Streamlit
@@ -53,7 +53,7 @@ The system allows users to input personal and financial details through a Stream
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ├── app.py
 ├── loan_approval_data.csv 
