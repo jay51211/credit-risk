@@ -52,11 +52,3 @@ The system allows users to input personal and financial details through a Stream
 - Scikit-learn
 
 ---
-
-##  Project Structure
-
-├── app.py
-├── loan_approval_data.csv 
-├── credit_wise.ipynb 
-├── requirements.txt
-└── README.md
